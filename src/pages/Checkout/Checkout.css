@@ -1,0 +1,86 @@
+.place-order {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 50px;
+  margin-top: 35px;
+  margin-left: 4px;
+  padding: 1rem 10%;
+}
+.place-order-left {
+  width: 100%;
+  max-width: max(30%, 500px);
+}
+.place-order-left .title {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  margin-left: -3px;
+  color: #010916;
+}
+.place-order-left input {
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #c5c5c5;
+  border-radius: 4px;
+  outline-color: tomato;
+}
+.place-order-left .multi-fields {
+  display: flex;
+  gap: 10px;
+}
+.table-containertwo-two {
+  margin-top: -424px;
+  margin-left: 549px;
+  width: 70%;
+  padding: 0 10%;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  color: #1f2022;
+}
+
+.tabletwo-two {
+  width: 50%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.tabletwo-two td {
+  padding: 9px 0px;
+  text-align: left;
+  border-bottom: 1px solid lightgray;
+  font-weight: 500;
+}
+
+.tabletwo-two td:nth-child(2) {
+  text-align: right;
+}
+
+.tabletwo-two tr:nth-child(3) td {
+  font-weight: 600;
+  color: #02060c;
+}
+
+.left-heading-two {
+  color: #1f2022;
+}
+
+.table-section-two {
+  margin-top: -1px;
+  margin-bottom: 40px;
+}
+
+.checkout-button-two {
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  background-color: tomato;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 892px;
+  margin-top: 1.5rem;
+  margin-bottom: 10rem;
+}

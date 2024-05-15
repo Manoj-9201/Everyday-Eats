@@ -1,0 +1,46 @@
+.menu-items {
+  padding: 1rem 10%;
+}
+.menu-items h2 {
+  font-size: 28px;
+}
+.menu-items p {
+  color: rgb(117, 103, 103);
+  font-size: 15px;
+  width: 60%;
+  letter-spacing: 0.3px;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: row;
+  margin-left: -35px;
+  margin-top: 45px;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  text-align: center;
+}
+
+.menu-list img {
+  position: relative;
+  width: 100px;
+  cursor: pointer;
+}
+.menu-list img.active {
+  border: 4px solid tomato;
+  border-radius: 50%;
+  padding: 2px;
+}
+.menu-items li {
+  list-style: none;
+  margin-top: 15px;
+  align-items: center;
+  color: rgb(102, 91, 91);
+}
+.menu-divider {
+  width: 100%;
+  height: 1px;
+  color: rgb(225, 212, 212);
+  margin-top: 40px;
+}

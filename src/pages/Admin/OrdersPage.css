@@ -1,0 +1,35 @@
+/* .orders {
+  margin-top: -45rem;
+  margin-left: 20rem;
+} */
+
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.cart-item {
+  margin-bottom: 10px;
+}
+
+.item-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.overall-info {
+  margin-top: 20px;
+}
+
+.dropdown {
+  width: 200px;
+  margin-top: 10px;
+}

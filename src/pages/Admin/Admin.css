@@ -1,0 +1,46 @@
+#admin {
+  margin-top: -25px;
+  padding: 1rem 7%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.p-tag {
+  margin-top: -52px;
+  margin-left: 110px;
+  color: #53545a;
+  font-size: 18px;
+}
+
+#admin img {
+  border-color: tomato;
+}
+#admin p {
+  font-size: 35px;
+  font-weight: 700;
+  color: rgb(250, 129, 59);
+}
+.line {
+  color: rgb(217, 217, 217);
+}
+.vertical-line {
+  border-left: 2px solid rgb(166, 165, 165);
+  height: 100vh;
+  margin-left: 12.1rem;
+  margin-top: -11.5rem;
+}
+.nav {
+  margin-top: 2.5rem;
+  margin-left: 3rem;
+}
+.nav p {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  padding: 3px 3px 3px 18px;
+  width: 12rem;
+  height: 2rem;
+  cursor: pointer;
+  color: rgb(63, 60, 60);
+}
+.nav :hover {
+  transform: translateY(-3px);
+}
