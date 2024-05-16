@@ -1,8 +1,6 @@
-# React + Vite
+#EVERYDAY EATS!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###Everyday Eats is an online food ordering web application that includes different types of menus which includes starters, main dish and deserts.
+###This was developed using HTML, CSS, React js for the frontend part
+###Redux is used for the state management of the application
+###Backend part of the application will be added soon
